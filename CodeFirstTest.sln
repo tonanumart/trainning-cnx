@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trainning", "CodeFirstTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibTrainning", "LibTrainning\LibTrainning.csproj", "{84AC94F5-3F02-4642-BF44-4D16683015AD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCTodo", "MVCTodo\MVCTodo.csproj", "{D1A180CA-2409-4046-AB30-B360C5A98BD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84AC94F5-3F02-4642-BF44-4D16683015AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84AC94F5-3F02-4642-BF44-4D16683015AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84AC94F5-3F02-4642-BF44-4D16683015AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A180CA-2409-4046-AB30-B360C5A98BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A180CA-2409-4046-AB30-B360C5A98BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A180CA-2409-4046-AB30-B360C5A98BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A180CA-2409-4046-AB30-B360C5A98BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
