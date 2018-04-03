@@ -13,12 +13,17 @@ Update-Database
 
 # Config Connection String
 
-
-  <connectionStrings>
-     
+```xml
      <connectionStrings>
       <add name="TodoDataContext" providerName="System.Data.SqlClient"    
           connectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TodoAppData;Integrated Security=True;"/>
      </connectionStrings>
-     
-  </connectionStrings>
+```
+# Web Config
+
+
+```xml
+<system.web> 
+  <sessionState mode="InProc" cookieless="false" timeout="1" /> 
+</system.web>  
+```
