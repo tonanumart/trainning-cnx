@@ -11,7 +11,7 @@ Add-Migration NameTasks
 
 Update-Database
 
-# Config Connectoion String
+# Config Connection String
 
 
   <connectionStrings>
